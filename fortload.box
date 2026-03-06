@@ -1,0 +1,5 @@
+runtime start.box
+  employ crid.os.time.launch.atmypc
+    open window fortload
+  title=FortLoad
+    get rest from git
